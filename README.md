@@ -1,22 +1,7 @@
-# joreujima-pos
+# Joreujima POS
 
-> A fucking pos
+Joreujima POS is a Point of Sales System, Created using Vue.JS as a frontend and Express as a backend, and for the mobile application, creatied also using Vue.JS with Progressive Web Apps technology.
 
-## Build Setup
+### Main Features
 
-``` bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn run dev
-
-# build for production and launch server
-$ yarn run build
-$ yarn start
-
-# generate static project
-$ yarn run generate
-```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+Some of the main features of **Joreujima POS** is Ease of Use, not only for the cashier, and also for the customer, even the admin.
